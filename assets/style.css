@@ -1,0 +1,54 @@
+
+html{
+    background-color: #9fe7f5
+
+}
+
+header, footer {color: #9fe7f5 ;
+    background-color: #04446a; 
+    line-height: 3;
+    padding: 8px;
+    border: 12px;
+}
+
+a {
+    color: #9fe7f5;
+}
+
+header { text-align: right; 
+    position: sticky;
+   top: 0;
+   border-style: solid;
+   border-bottom-color: #fefbea;
+   border-bottom-width: 8px;
+}
+
+footer { text-align: center;}
+
+h1, h2, h3, h4 {color: #04446a ; text-align: center; background-color: #9fe7f5
+}
+
+ h2, form { background-color: #fefbea;
+
+}
+
+
+form {
+    text-align: center;
+    line-height: 1;
+}
+
+.container { background-color: #9fe7f5; 
+    position: relative;
+
+}
+
+.contact {  color: #fefbea;  }
+
+p {color: #04446a;
+    padding: 8px;
+    border: 12px;
+    font-family: 'DM Sans', 'Fraunces 9pt SuperSoft Regul';
+    font-size: larger;
+
+}
